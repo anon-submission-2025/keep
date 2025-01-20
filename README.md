@@ -29,4 +29,4 @@ The framework includes two key evaluation scripts:
 
 The extrinsic evaluation assesses embedding performance on downstream clinical prediction tasks.
 
-For detailed methodology and results, please refer to our paper. Note that this is an anonymous repository for peer review purposes.
+For detailed methodology and results, please refer to our paper (currently under review at CHIL 2025). Note that this is an anonymous repository for peer review purposes.
